@@ -2,6 +2,12 @@ FUN'S IMAGE VIEWER FOR DS--FUN'S IMAGE VIEWER FOR DS--FUN'S IMAGE VIEWER FOR DS-
 
 
 
+Quick Commands:
+magick.exe PUTIMGHERE/whateveryourimageisnamed.imageextension PUTIMGHERE/img.png
+magick.exe PUTIMGHERE/img.png -resize 256x192! -colors 256 PNG8:data/output.png
+
+
+
 
 Hey, thanks for stopping by.
 Here's how you add your custom image, and build your completed rom.
@@ -73,3 +79,9 @@ and select the Nintendo DS development kit, which is nds-dev in the installation
 make
 
 in the console to get your rom.
+
+
+
+
+
+
